@@ -138,7 +138,7 @@ class App(customtkinter.CTk):
         self.radio_var = tkinter.IntVar(value=0)
 
         self.label_radio_group = customtkinter.CTkLabel(master=self.frame_right,
-                                                        text="Futuer work:")
+                                                        text="Future work:")
         self.label_radio_group.grid(row=0, column=2, columnspan=1, pady=20, padx=10, sticky="")
 
         # set default values
