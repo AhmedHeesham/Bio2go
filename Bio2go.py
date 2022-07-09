@@ -94,7 +94,7 @@ class App(customtkinter.CTk):
                                                 command=self.zaharaa)
         self.button_8.grid(row=7, column=0, pady=10, padx=20)
         self.button_7 = customtkinter.CTkButton(master=self.frame_right,
-                                                text="Aotomata",
+                                                text="Automata",
                                                 border_width=2,  # <- custom border_width
                                                 fg_color=None,  # <- no fg_color
                                                 command=self.allOnOne)
