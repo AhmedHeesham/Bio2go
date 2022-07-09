@@ -1,0 +1,23 @@
+collection 0 pip 
+sudo apt install python3-pip.
+
+collection 1 tkinter
+sudo apt-get install python-tk.
+
+collection 2 customtkinter
+sudo pip3 install customtkinter.
+Update existing installation
+
+sudo pip3 install customtkinter --upgrade.
+
+collection 3 biopython
+sudo pip install biopython
+
+collection 4
+sudo apt install git
+git clone https://gitlab.pasteur.fr/GIPhy/fastq_info.git
+cd fastq_info/
+chmod +x fastq_info.sh
+wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR001/SRR001666/SRR001666*.fastq.gz
+sudo apt install fastqc.
+
