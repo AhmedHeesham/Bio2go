@@ -1,5 +1,7 @@
 # Bio2go
  Bio2go is automated script toolbox carries out several important tasks that are the most used in the bioinformatics field
+ ![GUI](https://user-images.githubusercontent.com/87371580/178114219-9365e1c1-777b-4a3d-8974-af8fadd0246d.png)
+
 ## what Bio2go can do ?
 1.	Perform local and global pairwise 
 2.	Perform multiple sequence alignment (MSA)
