@@ -1,6 +1,6 @@
 # Bio2go
  Bio2go is automated script toolbox carries out several important tasks that are the most used in the bioinformatics field.
-![GUI](https://user-images.githubusercontent.com/87371580/178115317-725c8ab8-5095-445f-b570-2153a5dd5a4e.png)
+![GUI](https://user-images.githubusercontent.com/87371580/178115431-c76963f9-b6b9-4588-80b6-5990ec17a628.png)
 
 ## what Bio2go can do ?
 1.	Perform local and global pairwise.
