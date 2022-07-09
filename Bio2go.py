@@ -126,7 +126,7 @@ class App(customtkinter.CTk):
         self.frame_info.columnconfigure(0, weight=1)
 
         self.label_info_1 = customtkinter.CTkLabel(master=self.frame_info,
-                                                   text="it is BMD301 project ,\n" +
+                                                   text="it is Bio2go\n" +
                                                         " \n",
                                                    height=100,
                                                    fg_color=("white", "gray38"),  # <- custom tuple-color
